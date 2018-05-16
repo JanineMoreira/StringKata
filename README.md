@@ -1,0 +1,2 @@
+# StringKata
+String Kata
